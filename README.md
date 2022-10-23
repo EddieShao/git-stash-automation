@@ -1,6 +1,6 @@
 # git stash
 
-This is a toy example of using git stash create in a script to automate stashing.
+This is a toy example of using git stash create in a script to automate stashing.<br>
 The script moves your local changes from the current branch to a target branch.
 
 Try out the script
@@ -11,5 +11,5 @@ bash stash-move.sh <branch_name>
 
 ```
 
-`<branch_name>` is the name of the branch you want to move your local changes to.
+`<branch_name>` is the name of the branch you want to move your local changes to.<br>
 It can be any existing branch that isn't the current branch.
